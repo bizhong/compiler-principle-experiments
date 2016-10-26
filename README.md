@@ -159,22 +159,22 @@ flag = 5
 
 ![程序界面5][19]
 
-  [1]: https://github.com/basfed/compiler-principle-experiments/blob/master/images/lexical-analysis/state-transition-diagram/1.png
-  [2]: https://github.com/basfed/compiler-principle-experiments/blob/master/images/lexical-analysis/state-transition-diagram/2.png
-  [3]: https://github.com/basfed/compiler-principle-experiments/blob/master/images/lexical-analysis/state-transition-diagram/3.png
-  [4]: https://github.com/basfed/compiler-principle-experiments/blob/master/images/lexical-analysis/state-transition-diagram/4.png
-  [5]: https://github.com/basfed/compiler-principle-experiments/blob/master/images/lexical-analysis/state-transition-diagram/5.png
-  [6]: https://github.com/basfed/compiler-principle-experiments/blob/master/images/lexical-analysis/program-flow-diagram/1.png
-  [7]: https://github.com/basfed/compiler-principle-experiments/blob/master/images/lexical-analysis/application-interface/1.png
-  [8]: https://github.com/basfed/compiler-principle-experiments/blob/master/images/lexical-analysis/application-interface/2.png
-  [9]: https://github.com/basfed/compiler-principle-experiments/blob/master/images/lexical-analysis/application-interface/3.png
-  [10]: https://github.com/basfed/compiler-principle-experiments/blob/master/images/lexical-analysis/application-interface/4.png
-  [11]: https://github.com/basfed/compiler-principle-experiments/blob/master/images/lexical-analysis/application-interface/5.png
-  [12]: https://github.com/basfed/compiler-principle-experiments/blob/master/images/lexical-analysis/application-interface/6.png
-  [13]: https://github.com/basfed/compiler-principle-experiments/blob/master/images/lexical-analysis/application-interface/7.png
-  [14]: https://github.com/basfed/compiler-principle-experiments/blob/master/images/syntax-analysis/program-flow-diagram/1.png
-  [15]: https://github.com/basfed/compiler-principle-experiments/blob/master/images/syntax-analysis/application-interface/1.png
-  [16]: https://github.com/basfed/compiler-principle-experiments/blob/master/images/syntax-analysis/application-interface/2.png
-  [17]: https://github.com/basfed/compiler-principle-experiments/blob/master/images/syntax-analysis/application-interface/3.png
-  [18]: https://github.com/basfed/compiler-principle-experiments/blob/master/images/syntax-analysis/application-interface/4.png
-  [19]: https://github.com/basfed/compiler-principle-experiments/blob/master/images/syntax-analysis/application-interface/5.png
+  [1]: https://github.com/bizhong/images/blob/master/compiler-principle-experiments/lexical-analysis/state-transition-diagram-1.png
+  [2]: https://github.com/bizhong/images/blob/master/compiler-principle-experiments/lexical-analysis/state-transition-diagram-2.png
+  [3]: https://github.com/bizhong/images/blob/master/compiler-principle-experiments/lexical-analysis/state-transition-diagram-3.png
+  [4]: https://github.com/bizhong/images/blob/master/compiler-principle-experiments/lexical-analysis/state-transition-diagram-4.png
+  [5]: https://github.com/bizhong/images/blob/master/compiler-principle-experiments/lexical-analysis/state-transition-diagram-5.png
+  [6]: https://github.com/bizhong/images/blob/master/compiler-principle-experiments/lexical-analysis/program-flow-diagram.png
+  [7]: https://github.com/bizhong/images/blob/master/compiler-principle-experiments/lexical-analysis/application-interface-1.png
+  [8]: https://github.com/bizhong/images/blob/master/compiler-principle-experiments/lexical-analysis/application-interface-2.png
+  [9]: https://github.com/bizhong/images/blob/master/compiler-principle-experiments/lexical-analysis/application-interface-3.png
+  [10]: https://github.com/bizhong/images/blob/master/compiler-principle-experiments/lexical-analysis/application-interface-4.png
+  [11]: https://github.com/bizhong/images/blob/master/compiler-principle-experiments/lexical-analysis/application-interface-5.png
+  [12]: https://github.com/bizhong/images/blob/master/compiler-principle-experiments/lexical-analysis/application-interface-6.png
+  [13]: https://github.com/bizhong/images/blob/master/compiler-principle-experiments/lexical-analysis/application-interface-7.png
+  [14]: https://github.com/bizhong/images/blob/master/compiler-principle-experiments/syntax-analysis/program-flow-diagram.png
+  [15]: https://github.com/bizhong/images/blob/master/compiler-principle-experiments/syntax-analysis/application-interface-1.png
+  [16]: https://github.com/bizhong/images/blob/master/compiler-principle-experiments/syntax-analysis/application-interface-2.png
+  [17]: https://github.com/bizhong/images/blob/master/compiler-principle-experiments/syntax-analysis/application-interface-3.png
+  [18]: https://github.com/bizhong/images/blob/master/compiler-principle-experiments/syntax-analysis/application-interface-4.png
+  [19]: https://github.com/bizhong/images/blob/master/compiler-principle-experiments/syntax-analysis/application-interface-5.png
